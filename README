@@ -1,0 +1,5 @@
+Normaliter probeer ik zoveel mogelijk jQuery te vermijden om overhead lager te houden, 
+maar blijkbaar was jQuery het meest consistent (cross-browser) om de hoogte en breedte van mijn document te bepalen
+
+Als ik paints vakje per vakje deed, bleven een aantal pixels aan de zijkant gekleurd in de vorige kleur. 
+Daarom besloot ik bij elke actie de volledige grid te painten. 
